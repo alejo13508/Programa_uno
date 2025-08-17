@@ -1,5 +1,4 @@
 # Programa_uno
-</br>
 Hecho por los mejorcitos
 </br></br>
 Alejandro Velez Gallego
